@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+}
+
+tr{
+    border-bottom: solid black 1px;
+}
+
+td,th{
+    padding-right: 10px;
+    padding-bottom:10px;
+    padding-left:0px;
+    padding-top: 0px;
+
+}
+h1,h2{
+    font-size: 50px;
+}
+#table{
+    border: solid black;
+    width:50%;
+    padding: 0;
+    margin: auto;
+}
+
+Table{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    table-layout: fixed;
+    font-size: 40px;
+    border-collapse: collapse;
+}
